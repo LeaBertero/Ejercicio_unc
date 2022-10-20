@@ -7,11 +7,17 @@
 */
 body >  a, p, h1{
     color: #45B39D;
+
+}
+/* Color de fondo del body */
+.color{
+    background-color: gray;
 }
 
 header{
     background-color: #1D1CE5;
     width: 100%;
+    border-color: beige;
         
 }
 
